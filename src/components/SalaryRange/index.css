@@ -1,0 +1,10 @@
+.each-list1 {
+  color: white;
+  font-family: 'Roboto';
+  margin-top: 10px;
+  font-size: 20px;
+}
+.radio-type {
+  margin-right: 15px;
+  transform: scale(1.4);
+}

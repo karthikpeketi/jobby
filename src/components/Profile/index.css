@@ -1,0 +1,9 @@
+.profile-container {
+  min-width: 40vw;
+  max-width: 60vw;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 15px;
+  margin-top: 30px;
+  height: 280px;
+}

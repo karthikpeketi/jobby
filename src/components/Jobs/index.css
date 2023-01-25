@@ -1,0 +1,87 @@
+.jobs-main-container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  font-family: 'Roboto';
+}
+
+.input-container {
+  background-color: transparent;
+  outline: none;
+  border: 1px solid #64748b;
+  border-radius: 4px;
+  width: 90%;
+  height: 36px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-field {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  width: 80%;
+  padding: 8px;
+  height: 34px;
+  color: white;
+  padding-left: 10px;
+}
+.search-icon {
+  background-color: #272727;
+  width: 50px;
+  height: 34px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  font-size: 16px;
+  padding-top: 2px;
+}
+
+.horizontal-line {
+  width: 95%;
+  color: #64748b;
+  margin-top: 25px;
+}
+.filter-main-container {
+  align-self: flex-start;
+}
+.unordered-list-container {
+  list-style: none;
+}
+.filter-main-heading {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.jobs-unordered-list {
+  list-style: none;
+}
+.jobs-list-container {
+  width: 90%;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}
+.no-jobs-container {
+  display: flex;
+  flex-direction: column;
+}
+.search-input-content {
+  align-self: center;
+}
+.no-job {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.job-filters-container {
+  width: 100%;
+}
